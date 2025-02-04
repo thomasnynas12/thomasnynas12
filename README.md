@@ -12,8 +12,9 @@ Hi, I am a dedicated Fullstack with expertise in modern web and blockchain techn
   <img align="top" alt="Vite" width="40px" src="https://skillicons.dev/icons?i=angular" />
   <img align="top" alt="Vite" width="40px" src="https://skillicons.dev/icons?i=nest" />
   <img align="top" alt="Vite" width="40px" src="https://skillicons.dev/icons?i=vue" />
+  <img align="top" alt="Vite" width="40px" src="https://skillicons.dev/icons?i=AWS" />
+  <img align="top" alt="Vite" width="40px" src="https://skillicons.dev/icons?i=Web3" />
   <img align="top" alt="Vite" width="40px" src="https://skillicons.dev/icons?i=laravel" />
-  <img align="top" alt="Vite" width="40px" src="https://skillicons.dev/icons?i=node" />
   <img align="top" alt="Tailwind" width="40px" src="https://skillicons.dev/icons?i=tailwind" />
   <img align="top" alt="TypeScript" width="40px" src="https://skillicons.dev/icons?i=typescript" />
   <img align="top" alt="TypeScript" width="40px" src="https://skillicons.dev/icons?i=nodejs" />
