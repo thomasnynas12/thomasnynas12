@@ -1,7 +1,7 @@
 
-### Fullstack & Blockchain Engineer
+### 🖥️Fullstack & Blockchain Engineer🖥️
 
-Hi, I am a dedicated Fullstack with expertise in modern web and blockchain technologies, including Node, Next, Nuxt, React, Vue, Laravel, TypeScript, Tailwind Css, MongoDB, MySQL, GraphQL, AWS, Web3, Aptos, Solana, Python, solidity, Ethereum and smart contract development and AWS, Docker, Jira, GitLab. Passionate about building scalable, high-performance applications while continuously learning and improving..   
+👌Hi, I am a dedicated Fullstack with expertise in modern web and blockchain technologies, including Node, Next, Nuxt, React, Vue, Laravel, TypeScript, Tailwind Css, MongoDB, MySQL, GraphQL, AWS, Web3, Aptos, Solana, Python, solidity, Ethereum and smart contract development and AWS, Docker, Jira, GitLab. Passionate about building scalable, high-performance applications while continuously learning and improving.👍  
 
 <div align="center">
   <p align="left"> 
