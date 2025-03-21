@@ -1,9 +1,9 @@
 
-### 🖥️Fullstack & Blockchain Engineer🖥️
+### 🖥️ Fullstack Python Engineer | Python | Javascript | DevOps 🖥️
 
 ---
 
-👌Hi, I am a dedicated Fullstack developer with expertise in modern web and blockchain technologies, including 🖥️Node, Next, Nuxt, React, Vue, Laravel, TypeScript, Tailwind Css, MongoDB, MySQL, GraphQL, AWS, Web3, Aptos, Solana, Python, solidity, Ethereum and smart contract development and AWS, Docker, Jira, GitLab.🖥️ Passionate about building scalable, high-performance applications while continuously learning and improving.👍  
+👌Hi, I’m a _**Full Stack Python Developer**_ with 6 years of experience, specializing in _**Python *_*and _**Django**_ to build scalable, high-performance web applications. I create seamless, responsive user experiences using React and Vue.js, ensuring modern and dynamic frontends. On the DevOps side, I work with Docker, Kubernetes, and CI/CD pipelines to automate deployments and optimize infrastructure. My expertise in RESTful APIs, PostgreSQL, Redis, and Elasticsearch enhances backend performance and data efficiency. I also integrate AI technologies like TensorFlow, OpenAI, and scikit-learn to build smart, data-driven applications. Passionate about clean code, TDD, and scalable architectures, I thrive in Agile environments, always delivering innovative and efficient software solutions.👍  
 
 ---
 
