@@ -10,7 +10,7 @@ LLM/ML
 
 <div align="center">
   <p align="left"> 
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+    <a href="https://docs.python.org/3/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain-wordmark.svg" alt="python" width="40" height="40"/> 
     </a>  
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
