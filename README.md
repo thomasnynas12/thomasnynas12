@@ -1,93 +1,47 @@
+<h2 align="center">🚀 Senior Software Engineer | Python/Django | AI/ML | JavaScript | Data Engineering</h2>
 
-### 🖥️ Senior Fullstack Python Engineer | Python | Javascript | DevOps 🖥️
-
----
-
-👌Hi, I’m a _**Senior Full Stack Python Developer**_ with 7 years of experience, specializing in _**Python**_ and _**Django**_ to build scalable, high-performance web applications. I create seamless, responsive user experiences using React and Vue.js, ensuring modern and dynamic frontends. On the DevOps side, I work with Docker, Kubernetes, and CI/CD pipelines to automate deployments and optimize infrastructure. My expertise in RESTful APIs, PostgreSQL, Redis, and Elasticsearch enhances backend performance and data efficiency. I also integrate AI technologies like TensorFlow, OpenAI, and scikit-learn to build smart, data-driven applications. Passionate about clean code, TDD, and scalable architectures, I thrive in Agile environments, always delivering innovative and efficient software solutions.👍  
-LLM/ML
+<p align="center">
+  Building intelligent, scalable, and secure applications with a passion for automation and clean code.
+</p>
 
 ---
 
-<div align="center">
-  <p align="left"> 
-    <a href="https://docs.python.org/3/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain-wordmark.svg" alt="python" width="40" height="40"/> 
-    </a>  
-    <a href="https://docs.python.org/3/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/> 
-    </a> 
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-    </a>  
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-    </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-    </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a> 
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-    </a> 
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-    </a> 
-    <a href="https://angular.dev/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/>
-    </a> 
-    <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/>
-    </a> 
-     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-    </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-    </a> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-    </a> 
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="react" width="40" height="40"/> 
-    </a> 
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-    </a> 
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40" />
-    </a>
-    <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="jira" width="40" height="40" />
-    </a>
-     <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="40" height="40" />
-    </a>
-    <a href="https://redis.io" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" />
-    </a>
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" />
-    </a>
-    <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40" />
-    </a>
-  </p>
-</div>
+### 👨‍💻 About Me
+- 🧠 7+ years crafting full-stack web apps with **Python, Django, FastAPI**, and **JavaScript**
+- 🤖 Integrating AI/ML for smarter products — from **NLP pipelines** to **real-time recommendations**
+- 🌐 Pro at **REST/GraphQL APIs**, **Dockerized deployments**, and **AWS/Kubernetes**
+- 🧰 CI/CD champion — automating builds, tests, and releases for rapid development
+- 💡 Always shipping side projects, contributing to OSS, and exploring new tech
+- 🧭 I care deeply about code readability, performance, and system design
+- 🌍 Available for remote-first roles & global collaboration
 
-<h1 align="center"></h1>
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=thomas-nynas&show_icons=true&count_private=true&theme=algolia"/>
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomas-nynas&layout=compact&theme=algolia&count_private=true" /> 
-<img height="150px" />
-<br/>  
+---
 
+### 🛠️ Tech Toolbox
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+---
+
+### 🔥 Current Focus
+- ✅ AI-powered SaaS platforms  
+- ✅ Real-time data processing  
+- ✅ Scalable microservices  
+- ✅ Developer productivity tools
+
+---
+
+### 📫 Connect With Me
+[🌐 Portfolio](https://thomas-nynas.vercel.app) • [💼 LinkedIn](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/thomas-nynas-616587350/))
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/birenpatel6/birenpatel6/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
