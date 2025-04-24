@@ -41,7 +41,3 @@
 [🌐 Portfolio](https://thomas-nynas.vercel.app) • [💼 LinkedIn](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/thomas-nynas-616587350/))
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/birenpatel6/birenpatel6/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
