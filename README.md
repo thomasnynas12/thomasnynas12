@@ -42,6 +42,6 @@
 ---
 
 ### 📫 Connect With Me
-[🌐 Portfolio](https://thomas-nynas.vercel.app) • [💼 LinkedIn](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/thomas-nynas-616587350/))
+[🌐 Portfolio](https://thomas-nynas.vercel.app) 
 
 ---
