@@ -1,11 +1,11 @@
-<h2 align="center">🚀 Senior Software Engineer | Python/Django | AI/ML | JavaScript | Data Engineering</h2>
+<h2 align="center">🚀 Senior Software Engineer | Python/Django | AI | JavaScript</h2>
 
 <p align="center">
   Building intelligent, scalable, and secure applications with a passion for automation and clean code.
 </p>
 <p align="center">
   <a href="https://github.com/kaimatsuda29"><img
-      src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Software%20Engineer;Web%20and%20AI/ML%20master;Senior%20Data%20Engineer;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+      src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Software%20Engineer;Web%20and%20AI/ML%20master;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 ---
